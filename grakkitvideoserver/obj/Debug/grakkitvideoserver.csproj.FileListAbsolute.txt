@@ -1,0 +1,7 @@
+C:\Users\Armagan\source\repos\grakkitvideoserver\grakkitvideoserver\bin\Debug\grakkitvideoserver.exe.config
+C:\Users\Armagan\source\repos\grakkitvideoserver\grakkitvideoserver\bin\Debug\grakkitvideoserver.exe
+C:\Users\Armagan\source\repos\grakkitvideoserver\grakkitvideoserver\bin\Debug\grakkitvideoserver.pdb
+C:\Users\Armagan\source\repos\grakkitvideoserver\grakkitvideoserver\obj\Debug\grakkitvideoserver.csproj.AssemblyReference.cache
+C:\Users\Armagan\source\repos\grakkitvideoserver\grakkitvideoserver\obj\Debug\grakkitvideoserver.csproj.CoreCompileInputs.cache
+C:\Users\Armagan\source\repos\grakkitvideoserver\grakkitvideoserver\obj\Debug\grakkitvideoserver.exe
+C:\Users\Armagan\source\repos\grakkitvideoserver\grakkitvideoserver\obj\Debug\grakkitvideoserver.pdb
